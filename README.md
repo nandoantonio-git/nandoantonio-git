@@ -1,9 +1,10 @@
 ### Hey, I'm Fernando Antonio!👋
+I'm a design enthusiast and I'm dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-luiz-antonio-7b40221ab/)
 </br>
-I'm a design enthusiast and I'm dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
 
-![Statistics🤖](https://github-readme-stats.vercel.app/api?username=nandoantonio-git&icon_color=ffffff&show_icons=true&rank_icon=github&theme=dark&bg_color=0d1117)
+## Statistics🤖
+![Statistics](https://github-readme-stats.vercel.app/api?username=nandoantonio-git&icon_color=ffffff&show_icons=true&rank_icon=github&theme=dark&bg_color=0d1117)
 
 
 ## Skills
