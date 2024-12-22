@@ -1,7 +1,8 @@
 ### Hey, I'm Fernando Antonio!👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-luiz-antonio-7b40221ab/)
+I'm a design enthusiast and I'm dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
 
-![Nando's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoantonio-git&icon_color=ffffff&show_icons=true&rank_icon=github&theme=dark&bg_color=0d1117)
+![Statistics🤖](https://github-readme-stats.vercel.app/api?username=nandoantonio-git&icon_color=ffffff&show_icons=true&rank_icon=github&theme=dark&bg_color=0d1117)
 
 
 ## Skills
@@ -11,7 +12,4 @@
     <img align:center alt="java script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandoantonio-git&theme=dark&bg_color=0d1117)](https://github.com/nandoantonio-git/github-readme-stats)
-
-## About
-I'm a design enthusiast and I'm dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
+[![Top Langs🤖](https://github-readme-stats.vercel.app/api/top-langs/?username=nandoantonio-git&theme=dark&bg_color=0d1117)](https://github.com/nandoantonio-git/github-readme-stats)
