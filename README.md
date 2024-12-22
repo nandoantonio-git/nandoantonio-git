@@ -4,7 +4,7 @@
 ![Nando's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoantonio-git&icon_color=ffffff&show_icons=true&rank_icon=github&theme=dark&bg_color=0d1117)
 
 
-## SKills
+## Skills
 <div style="display:inline_block">
     <img align:center  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align:center alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -13,5 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandoantonio-git&theme=dark&bg_color=0d1117)](https://github.com/nandoantonio-git/github-readme-stats)
 
-<hr><br>
+## About
 I'm a design enthusiast and I'm dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
