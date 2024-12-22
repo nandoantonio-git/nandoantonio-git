@@ -15,3 +15,10 @@ I'm a design enthusiast and I'm dedicated to creating digital experiences that a
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandoantonio-git&theme=dark&bg_color=0d1117)](https://github.com/nandoantonio-git/github-readme-stats)
+
+#
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandoantonio-git/nandoantonio-git/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandoantonio-git/nandoantonio-git/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nandoantonio-git/nandoantonio-git/output/github-contribution-grid-snake.svg">
+</picture>
