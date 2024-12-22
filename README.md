@@ -13,5 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandoantonio-git&theme=dark&bg_color=0d1117)](https://github.com/nandoantonio-git/github-readme-stats)
 
-<hr>
-Entusiasta do design, focado em criar experiências digitais centradas nas pessoas, combinando funcionalidade e estética.
+<hr><br>
+I'm a design enthusiast and I'm dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
