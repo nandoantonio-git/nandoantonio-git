@@ -1,5 +1,5 @@
 ### Hey, I'm Fernando Antonio!👋
-I'm a design enthusiast and dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. 
+I'm a design enthusiast and dedicated to creating digital experiences that are human-centered, combining functionality and aesthetics. <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-luiz-antonio-7b40221ab/)
 </br>
 
