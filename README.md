@@ -1,6 +1,6 @@
 ### Hey, I'm Fernando Antonio 👋
 
-Product Engineer (in training) — Software Engineering at FIAP — and designer with 4+ years of experience.
+Product Engineer (in training) — Software Engineering at FIAP — and designer with +4 years of experience.
 
 I work at the intersection of product, UX and front-end: turning research and prototypes into reusable interfaces with React, TypeScript and Next.js.
 
@@ -10,7 +10,7 @@ I work at the intersection of product, UX and front-end: turning research and pr
 ## Featured Projects 🚀
 
 **[KanDrive](https://github.com/nandoantonio-git/nexus)** · UX Research & Design System  
-SaaS cold storage product (AWS S3 Glacier). Led the full research process: desk research, benchmark (Google Drive, Dropbox, OneDrive, pCloud), netnography and survey (25 respondents), resulting in 3 personas, opportunity map and product documentation. Responsible for the design system: 30+ reusable components (Atomic Design), 101 Figma variables. Team project; v2 front-end in migration (Next.js 16, React 19, shadcn/ui).
+SaaS cold storage product (AWS S3 Glacier). Led the full research process: desk research, benchmark (Google Drive, Dropbox, OneDrive, pCloud), netnography and survey (25 respondents), resulting in 3 personas, opportunity map and product documentation. Responsible for the design system: +30 reusable components (Atomic Design), 101 Figma variables. Team project; v2 front-end in migration (Next.js 16, React 19, shadcn/ui).
 
 **[Orbital Trust](https://github.com/nandoantonio-git/Orbital-Trust)** · Environmental monitoring with computer vision  
 Wildfire detection via OpenCV/MediaPipe, FastAPI backend, React Native mobile app, 186 automated tests. Team project (FIAP Global Solution 2026).
