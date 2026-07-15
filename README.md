@@ -1,20 +1,22 @@
 ### Hey, I'm Fernando Antonio 👋
-Product Engineer Júnior em formação (Engenharia de Software, FIAP) e designer com 4+ anos de experiência.
-Trabalho na interseção entre produto, UX e front-end — transformando pesquisa e protótipos em interfaces reutilizáveis com React, TypeScript e Next.js.
+
+Product Engineer (in training) — Software Engineering at FIAP — and designer with 4+ years of experience.
+
+I work at the intersection of product, UX and front-end: turning research and prototypes into reusable interfaces with React, TypeScript and Next.js.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-luiz-antonio-7b40221ab/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://fernandoluiz1312.myportfolio.com)
 
-## Projetos em destaque 🚀
+## Featured Projects 🚀
 
-**[KanDrive](https://github.com/nandoantonio-git/nexus)** — UX Research & Design System
-SaaS de armazenamento em cold storage (AWS S3 Glacier). Conduzi o processo de pesquisa completo — desk research, benchmark (Google Drive, Dropbox, OneDrive, pCloud), netnografia e survey (25 respondentes) — que resultou em 3 personas, mapa de oportunidades e documentação de produto. Responsável pelo design system: 30+ componentes reutilizáveis (Atomic Design), 101 variáveis no Figma. Projeto em equipe; v2 do front-end em migração (Next.js 16, React 19, shadcn/ui).
+**[KanDrive](https://github.com/nandoantonio-git/nexus)** · UX Research & Design System  
+SaaS cold storage product (AWS S3 Glacier). Led the full research process: desk research, benchmark (Google Drive, Dropbox, OneDrive, pCloud), netnography and survey (25 respondents), resulting in 3 personas, opportunity map and product documentation. Responsible for the design system: 30+ reusable components (Atomic Design), 101 Figma variables. Team project; v2 front-end in migration (Next.js 16, React 19, shadcn/ui).
 
-**[Orbital Trust](https://github.com/nandoantonio-git/Orbital-Trust)** — Monitoramento ambiental com visão computacional
-Detecção de queimadas via OpenCV/MediaPipe, backend FastAPI, app mobile React Native, 186 testes automatizados. Projeto em equipe (FIAP Global Solution 2026).
+**[Orbital Trust](https://github.com/nandoantonio-git/Orbital-Trust)** · Environmental monitoring with computer vision  
+Wildfire detection via OpenCV/MediaPipe, FastAPI backend, React Native mobile app, 186 automated tests. Team project (FIAP Global Solution 2026).
 
-**[Ford VinGuard](https://github.com/nandoantonio-git/Ford_Dock360)** — Pipeline de ML para dados automotivos
-Predição de churn com Random Forest, K-Means, MLflow, FastAPI, deploy em Render/Azure.
+**[Ford VinGuard](https://github.com/nandoantonio-git/Ford_Dock360)** · ML pipeline for automotive data  
+Churn prediction with Random Forest, K-Means, MLflow, FastAPI, deployed on Render/Azure.
 
 ## Skills 🛠️
 <div>
